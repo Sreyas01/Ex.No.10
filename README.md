@@ -641,5 +641,3 @@ Human Verification
        ↓
 Presentation & Demonstration
 ```
-## Generated Presentation
-https://docs.google.com/presentation/d/1L0U_FLzPDcxZaD9AODTOUrCIOX5TYhD-/edit?usp=drive_link&ouid=112408925019261580672&rtpof=true&sd=true
